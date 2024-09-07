@@ -1,6 +1,6 @@
 # Hi, I'm Shubham 👋
 
-Welcome to my GitHub page! I'm an innovative MERN Stack Developer passionate about building scalable and efficient web applications. With a focus on MongoDB, Express, React, and Node.js, I strive to deliver cutting-edge solutions that push the boundaries of web development. Currently, I'm diving deeper into advanced React techniques and exploring the vast potential of full-stack JavaScript environments. Connect with me to exchange ideas and opportunities!
+Welcome to my GitHub! I'm a passionate MERN Stack Developer focused on building efficient web applications. I work with MongoDB, Express, React, and Node.js to create scalable solutions.
 
 ## 🚀 Technology Stack
 

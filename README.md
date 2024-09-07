@@ -1,9 +1,9 @@
 # Hi, I'm Shubham 👋
-<p align="center"><h2>
+<h4 align="center">
   
 Welcome to my GitHub! I'm a passionate MERN Stack Developer focused on building efficient web applications. I work with MongoDB, Express, React, and Node.js to create scalable solutions.
-</h2>
-</p>
+</h4>
+
 
 ## 🚀 Technology Stack
 
